@@ -1,8 +1,7 @@
 ### Web_Project6 
-## Chrome Extension
-# Launcher
+# Launcher Extension
 ## About Launcher
-This launcher helps us to quickly access four links from single extension. Having good UI with easy to use.
+This is a chrome extension, which helps us to quickly access four links from single extension. Having good UI with easy to use.
 ## Skills used
 - HTML
 - CSS
